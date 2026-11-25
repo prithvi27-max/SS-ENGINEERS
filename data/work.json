@@ -1,59 +1,59 @@
 {
   "items": [
     {
-      "image": "/images/work-01.jpg",
+      "image": "images/work-01.jpg",
       "caption": "Finned heat sink plate"
     },
     {
-      "image": "/images/work-02.jpg",
+      "image": "images/work-02.jpg",
       "caption": "Finned plate with pocket"
     },
     {
-      "image": "/images/hero-2.jpg",
+      "image": "images/hero-2.jpg",
       "caption": "Machined enclosure base"
     },
     {
-      "image": "/images/hero-3.jpg",
+      "image": "images/hero-3.jpg",
       "caption": "Bored housings"
     },
     {
-      "image": "/images/work-05.jpg",
+      "image": "images/work-05.jpg",
       "caption": "Square flange covers"
     },
     {
-      "image": "/images/work-06.jpg",
+      "image": "images/work-06.jpg",
       "caption": "Frame plates"
     },
     {
-      "image": "/images/work-07.jpg",
+      "image": "images/work-07.jpg",
       "caption": "Plate with counterbored holes"
     },
     {
-      "image": "/images/work-08.jpg",
+      "image": "images/work-08.jpg",
       "caption": "Machined blocks"
     },
     {
-      "image": "/images/work-09.jpg",
+      "image": "images/work-09.jpg",
       "caption": "Ring plates"
     },
     {
-      "image": "/images/work-10.jpg",
+      "image": "images/work-10.jpg",
       "caption": "Batch of turned and bored parts"
     },
     {
-      "image": "/images/work-11.jpg",
+      "image": "images/work-11.jpg",
       "caption": "Threaded pins"
     },
     {
-      "image": "/images/work-12.jpg",
+      "image": "images/work-12.jpg",
       "caption": "Bearing housing"
     },
     {
-      "image": "/images/work-13.jpg",
+      "image": "images/work-13.jpg",
       "caption": "Welded fabrication"
     },
     {
-      "image": "/images/work-14.jpg",
+      "image": "images/work-14.jpg",
       "caption": "Welded bracket"
     }
   ]
