@@ -1,0 +1,41 @@
+media:
+  input: images
+  output: /images
+  extensions: [jpg, jpeg, png, webp]
+content:
+  - name: work
+    label: Our work photos
+    type: file
+    path: data/work.json
+    fields:
+      - name: items
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Photo, type: image }
+          - { name: caption, label: Caption, type: string }
+  - name: shop
+    label: Inside our shop photos
+    type: file
+    path: data/shop.json
+    fields:
+      - name: items
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Photo, type: image }
+          - { name: caption, label: Caption, type: string }
+  - name: customers
+    label: Customers
+    type: file
+    path: data/customers.json
+    fields:
+      - name: items
+        label: Customers
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Company name, type: string }
+          - { name: logo, label: Logo (optional), type: image, required: false }
