@@ -1,27 +1,27 @@
 {
   "items": [
     {
-      "image": "/images/shop-01.jpg",
+      "image": "images/shop-01.jpg",
       "caption": "VMC machines"
     },
     {
-      "image": "/images/shop-02.jpg",
+      "image": "images/shop-02.jpg",
       "caption": "Shop floor"
     },
     {
-      "image": "/images/shop-03.jpg",
+      "image": "images/shop-03.jpg",
       "caption": "Inspection"
     },
     {
-      "image": "/images/shop-04.jpg",
+      "image": "images/shop-04.jpg",
       "caption": "BFW BMV 50 machining centre"
     },
     {
-      "image": "/images/shop-05.jpg",
+      "image": "images/shop-05.jpg",
       "caption": "Operator at VMC"
     },
     {
-      "image": "/images/shop-06.jpg",
+      "image": "images/shop-06.jpg",
       "caption": "Our building, Bhosari"
     }
   ]
